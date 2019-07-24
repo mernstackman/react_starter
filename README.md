@@ -1,4 +1,4 @@
-# MERN Login System
+# React Starter
 
 This is a starter kit for UI development based on React. This package is come with server functionality so you can use it without any server setup.
 
