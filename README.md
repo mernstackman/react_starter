@@ -3,8 +3,11 @@
 This is a starter kit for UI development based on React. This package is come with server functionality so you can use it without any server setup.
 
 Just clone this package or download it and extract to a specific folder and run `npm install` on the terminal pointing to the path where you extract this package and you are ready to build your React based UI.
+<<<<<<< HEAD
 
 You will need NodeJs installed on your machine, anyway. Just head over to google and search for `NodeJS download` to get it. I recommend to use the stable version, but that's up to you to choose.
+=======
+>>>>>>> e8b0eeb0bee8a1313aded256f201871925ee0543
 
 Feel free to modify it.
 
