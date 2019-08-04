@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Button from "./atoms/button";
 
 class Home extends Component {
   componentDidMount() {
@@ -9,6 +10,7 @@ class Home extends Component {
     return (
       <div>
         <h1>I am home!</h1>
+        <Button>Test</Button>
       </div>
     );
   }
